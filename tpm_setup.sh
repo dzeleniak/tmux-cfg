@@ -1,2 +1,2 @@
-!#/bin/bash
+#!/bin/bash
 git clone https://github.com/tmux-plugins/tpm ./plugins/tpm
